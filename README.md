@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, this is a test
+Hi, this is a readme file
